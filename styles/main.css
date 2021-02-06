@@ -173,8 +173,11 @@ button{
   height: 64px;
 }
 
-/*.sidy-by-side{
-}*/
+.side-by-side{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 
 .description{
   flex: 1;
@@ -243,7 +246,7 @@ footer{
     flex-direction: row;
   }
   
-  .sidy-by-side{
+  .side-by-side{
     flex-direction: column;
     align-items: center;
   }
