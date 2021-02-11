@@ -210,6 +210,10 @@ footer{
   flex-direction: row;
 }
 
+.productmok {
+  display: flex;
+  flex-flow: row wrap;
+}
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
