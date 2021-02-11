@@ -210,7 +210,7 @@ footer{
   flex-direction: row;
 }
 
-.productmok {
+.product-mug {
   display: flex;
   flex-flow: row wrap;
 }
